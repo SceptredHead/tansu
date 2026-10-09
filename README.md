@@ -16,7 +16,7 @@ voting mechanisms.
 
 ## At a Glance
 
-- **On-chain Version Control**: Immutable commit hash tracking
+- **On-chain Version Control**: Immutable commit hash 
 - **Decentralized Governance**: Community proposals with public and anonymous voting
 - **Membership System**: Role-based access control with achievement badges
 - **Code Finality**: Maintainers attest commits and supply-chain evidence (SBOM, CVE) until a release is final
